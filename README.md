@@ -1,2 +1,2 @@
 A Fully Responsive Interior design Website.
-Using the Frontend Tolls Like Html, Css And JavaScript.
+Using the Frontend Tools Like Html, Css And JavaScript.
